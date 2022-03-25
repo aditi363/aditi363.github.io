@@ -1,0 +1,19 @@
+*{
+	scroll-behavior: smooth;
+}
+
+
+.masthead {
+height: 100vh;
+min-height: 500px;
+background-image: url("../img/IMG_20220321_175545.jpg");;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.intro{
+	height:300px;
+  background-color:#FFFFFF;
+  text-align: center;
+}
