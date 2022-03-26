@@ -17,3 +17,46 @@ background-repeat: no-repeat;
   background-color:#FFFFFF;
   text-align: center;
 }
+
+.nav-item a{
+	color: white!important;
+}
+.dropdown-menu li a{
+	color: black!important;
+}
+
+.iicons{
+	font-size: 50px;
+  margin: 20px;
+  color: white;
+  opacity: 0.7;
+}
+.iicons:hover {
+   opacity: 1;
+}
+
+.navbar-nav li{
+	padding:10px 20px ;
+}
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #0d6efd;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+input[type=submit]:hover {
+  opacity: 1;
+}
